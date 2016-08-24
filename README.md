@@ -1,2 +1,0 @@
-# OpenStudentBook
-Hello world
