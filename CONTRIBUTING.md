@@ -30,7 +30,7 @@ more details coming soon!
 Please share your ideas and your first comment in our [README FILE](https://github.com/edovio/OpenStudentBook/blob/master/README.md)
 
 ### How Report a Bug
-Have you found a Bug or want to propose some changes? please share your idea in our Official Channel. Don't have access. [Contact Us](edovio@gmail.com).
+Have you found a Bug or want to propose some changes? please share your idea in our [Official Channel](https://chat.mozillaitalia.org/channel/studentopenbook). Don't have access. [Contact Us](edovio@gmail.com).
 
 ### Recognition
 more details coming soon!
@@ -38,5 +38,9 @@ more details coming soon!
 ### Need an Help?
 You need an help, contact: Edoardo Viola - Email contact: edovio@gmail.com
 
+### How to request "enchancement"
+You can create a new issues as "enchancement" but the priority is not the same how the other issues.
 
+### Who is involved
+more details coming soon!
 
