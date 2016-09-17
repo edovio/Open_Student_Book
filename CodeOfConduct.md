@@ -1,18 +1,18 @@
 
 # Code of Conduct
 
-OpenStudentBook is Project born to make a little guide to interests Student in community who work in Open Project. 
+OpenStudentBook Project is born to make a small guide to interest Students in the community of the Open Project. 
 We value the participation of every university student, teacher, researcher, Ph or worker with an University Degree and want 
 all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy 
-to other attendees throughout the interactions online associated or community call with the OpenStudentBook Project.
+to other attendees throughout the whole experience.
 
-To make clear what is expected, everyone taking part in this project is required to conform to the following Code of Conduct. 
-If someone don't respect it you may also contact us directly by email at edovio@gmail.com. All communication will be treated as confidential.
+To clear the air, everyone taking part in this project is required to conform to the following Code of Conduct. 
+If someone doesn't abide by it you may also contact us directly by email at edovio@gmail.com. All communication will be treated as confidential.
 
 ## THE SHORT VERSION
 
-The OpenStudentBook Project is dedicated to providing a little guide for everyone, regardless of gender, sexual orientation, 
-disability, physical appearance, body size, race, religion, or choice of text editor. We do not tolerate harassment of participants in any form.
+The OpenStudentBook Project is dedicated to providing a small guide for everyone, regardless of gender, sexual orientation, 
+disability, physical appearance, body size, race, religion, or choice of text editor. We do not tolerate the harassment of participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds.
 
@@ -20,7 +20,7 @@ Be kind to others. Do not insult or put down other volunteers.
 
 Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
-Thank you for helping make this a welcoming, friendly event for all.
+Thank you for helping us make this a welcoming, friendly event for all.
 
 ## THE LONGER VERSION
 
