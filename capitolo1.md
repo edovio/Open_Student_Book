@@ -1,3 +1,4 @@
 # Capitolo1
-Cosa significa OpenSource e OpenProject
+Cosa significa Progettazione collaborativa e OpenSource
+
 
