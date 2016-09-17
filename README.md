@@ -14,6 +14,8 @@ I think that this project too could be a good start to who wants to tests the po
 
 Every Weeks we will make a Call or a Chat to talk about the Project and what we will done and the next steps. We will use this [Etherpad](https://public.etherpad-mozilla.org/p/PlaybookUniversitario) to track all the informations and to have a recap of all Calls maked.
 
+For more information see the [Contributing Doc](https://github.com/edovio/OpenStudentBook/blob/master/CONTRIBUTING.md)
+
 Italiano
 --------
 Hello World!!! Sono Edoardo Viola e sono un volontario Mozilla. Da questo Agosto ho iniziato a pensare che fosse necessaria una piccola guida per introdurre il mondo del Open Source e della progettazione "Libera" agli studenti di tutte le facoltà delle Università. Secondo me, è importante far conoscere le potenzialità e perchè riteniamo importante lavorare in progetti liberi e con le loro community. Tutto questo non solo per il bene dell'umanità in genere ma anche per noi stessi.
@@ -27,4 +29,4 @@ Io penso che questo progetto possa essere anche un buon inizio per chi stia iniz
 
 Ogni settimana faremo una Call o una chat dove discuteremo del progetto, di cosa abbiamo fatto e di cosa dovremo fare per proseguire i nostri obbiettivi. Noi utilizzeremo questo [Etherpad](https://public.etherpad-mozilla.org/p/PlaybookUniversitario) per tracciare tutte le informazioni e fare un riepilogo di quanto ci siamo detti durante le Call fatte in precedenza.
 
-
+Per maggiori informazioni guarda il [Documento Contributing](https://github.com/edovio/OpenStudentBook/blob/master/CONTRIBUTING.md)
