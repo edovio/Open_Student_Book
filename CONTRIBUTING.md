@@ -21,7 +21,7 @@ Please report unacceptable behavior to edovio@gmail.com.
 ### List of Communication Channels:
 * [Telgram Group](https://telegram.me/joinchat/B1cgtAocfekH_IHdviePDA)
 * [Etherpad](https://public.etherpad-mozilla.org/p/PlaybookUniversitario)
-* [Official Channel](https://chat.mozillaitalia.org/channel/studentopenbook)
+* [Official Channel](https://chat.mozillaitalia.org/channel/openstudentbook)
 
 ### How Submit Changes
 more details coming soon!
@@ -30,7 +30,7 @@ more details coming soon!
 Please share your ideas and your first comment in our [README FILE](https://github.com/edovio/OpenStudentBook/blob/master/README.md)
 
 ### How Report a Bug
-Have you found a Bug or want to propose some changes? please share your idea in our [Official Channel](https://chat.mozillaitalia.org/channel/studentopenbook). Don't have access. [Contact Us](edovio@gmail.com).
+Have you found a Bug or want to propose some changes? please share your idea in our [Official Channel](https://chat.mozillaitalia.org/channel/openstudentbook). Don't have access. [Contact Us](edovio@gmail.com).
 
 ### Recognition
 more details coming soon!
