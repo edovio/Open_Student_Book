@@ -1,5 +1,5 @@
-# Summary
+# Sommario - Indice
 
 * [Introduzione](README.md)
-* [Capitolo1](capitolo1.md)
+* [Cosa è la Progettazione Collaborativa e OpenSource](capitolo1.md)
 
