@@ -1,3 +1,2 @@
 # STUDI UMANISTICI
-
-Cartella di lavoro per la sezione degli Studi Umanistici
+L'offerta didattica del Dipartimento di Studi Umanistici è ampia e articolata; le discipline umanistiche studiano principalmente l'uomo e la condizione umana utilizzando strumenti di tipo analitico e critico, differenti dall'empirismo proprio della scienza. L'ambito di studio sono dunque le umane lettere come lingue e letterature classiche e più in generale la letteratura, la filosofia, la storia suddivisa in ambito storico-geografico, storico-artistico, storico-letterario e poi il diritto, le arti, l'archeologia, l'antropologia. A queste discipline classiche se ne affiancano di moderne, connesse alla rapida evoluzione dei mezzi di comunicazione di massa e alla rivoluzione informatica e multimediale. 
