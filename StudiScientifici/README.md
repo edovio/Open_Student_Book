@@ -7,7 +7,8 @@ Le Facoltà principali dell'area Tecnologica e Progettuale sono quelle di Ingegn
 Il comune denominatore che racchiude tutte queste facoltà è ...
 
 ## Area Tecnologica e di Progettazione
-
+Le facoltà di Ingegneria coinvolgono un'ampio range di aree tecnologiche che vanno dall'Energia alla Meccanica, passando per l'Ambiente e il Territorio fino alla Chimica. I principali corsi di laurea dell'area Tecnlogica e di Progettazione i cui fattori comuni sono la progettazione collaborativa e la creazione di possibili progetti Open Source sono Informatica, Ingegneria Informatica, Ingegneria Elettronica, Ingegneria dell'Automazione, Ingegneria dell'Energia ed Ingegneria Meccanica.
+Si pongono come obiettivo finale la professionalizzazione di una figura che collabora con un team di lavoro alla creazione di un progetto ad esempio di impiego del'energia nucleare, dai reattori, all'uso del combustibile, fino alla creazione dei software che vengono usati all'interno delle centrali nucleari.
 
 ## Orientati alla salute dell'Uomo
 
