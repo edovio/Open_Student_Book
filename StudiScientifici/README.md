@@ -14,4 +14,4 @@ Si pongono come obiettivo finale la professionalizzazione di una figura che coll
 Le facoltà orientate alla salute dell'uomo sono tutte quelle facoltà che hanno il principale obbiettivo di determinare scientificamente tutte le metodologie, gli approcci e il comportamento di esseri, sostanze o parti del corpo al fine di raggiungere il miglioramento del benessere Umano. La progettazione OpenSource determina l'opportunità di poter teorizzare e sviluppare nuove idee in modo collaborativo, inoltre, grazie alla multidisciplinarità che questo approccio permette, è possibile sviluppare nuove tecniche innovative per la risoluzione di problemi in modo differente che permette la persecuzione della massima efficienza ed efficacia nell'azione risolutiva.
 
 ## Scienze Classiche
-Ciao Mondo
+
