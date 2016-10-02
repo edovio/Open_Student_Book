@@ -4,7 +4,7 @@ Gli studi scientifici si raggruppano in tre aree differenti che sono: Tecnologic
 
 Le Facoltà principali dell'area Tecnologica e Progettuale sono quelle di Ingegneria e Informatica, mentre tra quelle orientate alla salute dell'uomo possiamo trovare per esempio Medicina, Biologia, Farmacologia. Negli studi Classici invece troviamo facoltà come Chimica, Fisica, Matematica e altre.
 
-Il comune denominatore che racchiude tutte queste facoltà è lo studio di soluzioni che abbiano un fondamento pratico e scientifico alla risoluzione dei problemi inerenti le tre differenti macro aree.
+Il comune denominatore che racchiude tutte queste facoltà è un sistema di conoscenze ottenute attraverso un'attività di ricerca prevalentemente organizzata e con procedimenti metodici e rigorosi, allo scopo di giungere ad una descrizione, verosimile, oggettiva e con carattere predittivo, della realtà e delle leggi che regolano l'occorrenza dei fenomeni.
 
 ## Area Tecnologica e di Progettazione
 Le facoltà dell'area tecnologica coinvolgono un'ampio range di aree che vanno dall'Energia alla Meccanica, passando per l'Ambiente e il Territorio fino alla Chimica. I principali corsi di laurea dell'area Tecnlogica e di Progettazione i cui fattori comuni sono la progettazione collaborativa e la creazione di possibili progetti Open Source sono Informatica, Ingegneria Informatica, Ingegneria Elettronica, Ingegneria dell'Automazione, Ingegneria dell'Energia ed Ingegneria Meccanica.
@@ -14,4 +14,4 @@ Si pongono come obiettivo finale la professionalizzazione di una figura che coll
 Le facoltà orientate alla salute dell'uomo sono tutte quelle facoltà che hanno il principale obbiettivo di determinare scientificamente tutte le metodologie, gli approcci e il comportamento di esseri, sostanze o parti del corpo al fine di raggiungere il miglioramento del benessere Umano. La progettazione OpenSource determina l'opportunità di poter teorizzare e sviluppare nuove idee in modo collaborativo, inoltre, grazie alla multidisciplinarità che questo approccio permette, è possibile sviluppare nuove tecniche innovative per la risoluzione di problemi in modo differente che permette la persecuzione della massima efficienza ed efficacia nell'azione risolutiva.
 
 ## Scienze Classiche
-Le Facoltà orientate...
+Le Scienze classiche sono tutte le scienze in cui troviamo quelle definite fondamentali come Fisica, Chimica o Matematica. Il loro approccio scientifico si basa sullo studio teorico di un fenomeno al fine di poterlo interpretare e poterlo spiegare.
