@@ -3,7 +3,7 @@ OPEN STUDENT BOOK
 
 English
 -------
-Hello World!!! I'm Edoardo Viola and I'm a Mozilla Volunteer.  Since last August, I started thinking to write a brief guide to introduce the Open Projects and the Open Source to students of all Universities and disciplinary sectors. It's important to make its potential known and why it is important to work in Open Projects and with their communities, not only for the humankind in general but for themselves.
+Hello World!!! I'm Edoardo Viola and I'm a Mozilla Volunteer.  Since last August, I started thinking to write a brief guide to introduce the Open Projects and the Open Source to students of all Universities and disciplinary sectors. It's important to make its potential known and why it is important to work in Open Projects and with their communities, not only for mankind in general but for themselves.
 
 I think that this project too could be a good start for anyone who wants to test the potential of working togheter, mixing our passions, skills and thinking in one Open project. Here all the thoughts concerning our goals are accepted and the method of work is inclusive for everyone.
 
