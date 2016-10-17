@@ -6,32 +6,32 @@ hello world! this is the first and simple RoadMap for the OpenStudentBook.
 In order to do this project we have decided to have two first Milestones:
 
 ##Milestone 1 : First a Draft
-**Task 1:** Write a Introduction for the Open Projects and OpenSource Projects 
+**Task 1:** Write an Introduction for the Open Projects and OpenSource Projects 
 *(Deadline: 30 September)*
 
-**Task 2:** Identify all the Faculties to insert in this guide
+**Task 2:** Identify all the Courses of Study to insert in this guide
 *(Deadline: 15 September)*
 
-**Task 3:** Identify all interests fields of the students for each faculty
+**Task 3:** Identify all interest fields of the students for each Course of Study
 *(Deadline: 20 September)*
 
-**Task 4:** Describe all interests fields of the students for each faculty
+**Task 4:** Describe all interest fields of the students for each Course of Study
 *(Deadline: 22 September)*
 
-**Task 5:** Identify the potentiality and possible interests in the partecipation in a OpenProject for each type of student
+**Task 5:** Identify the potentiality and possible interests in the partecipation in an OpenProject for each type of student
 *(Deadline: 24 September)*
 
-**Task 6:** Describe all the Keys aspect for each student and the link between their and the Open Projects
+**Task 6:** Describe all the Key aspects for each student and the link between them and the Open Projects
 *(Deadline: 26 September)*
 
-**Task 7:** Write for each student some impact phrase who describe why partecipate at an Open Porject
+**Task 7:** Write some impact phrase for each student that explains why to participate in an Open Porject
 *(Deadline: 30 September)*
 
 ##Milestone 2 : Review and Testing
 **Task 1:** Run a first test with the guide in different Universities in Italy
 *(Deadline: 15 October)*
 
-**Task 2:** Define the runned test and how are react the students
+**Task 2:** Define the run test and how the students reacted
 *(Deadline: 15 October)*
 
 **Task 3:** Insert the information in a test report
