@@ -1,17 +1,16 @@
 
 # Code of Conduct
 
-OpenStudentBook is Project born to make a little guide to interests Student in community who work in Open Project. 
+OpenStudentBook is a project born to make a brief guide to interest Students in the Open Source community. 
 We value the participation of every university student, teacher, researcher, Ph or worker with an University Degree and want 
-all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy 
-to other attendees throughout the interactions online associated or community call with the OpenStudentBook Project.
+all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the interactions online associated or community call with the OpenStudentBook Project.
 
-To make clear what is expected, everyone taking part in this project is required to conform to the following Code of Conduct. 
+To clear the air, everyone taking part in this project is required to conform to the following Code of Conduct. 
 If someone don't respect it you may also contact us directly by email at edovio@gmail.com. All communication will be treated as confidential.
 
 ## THE SHORT VERSION
 
-The OpenStudentBook Project is dedicated to providing a little guide for everyone, regardless of gender, sexual orientation, 
+The OpenStudentBook Project is dedicated to providing a brief guide for everyone, regardless of gender, sexual orientation, 
 disability, physical appearance, body size, race, religion, or choice of text editor. We do not tolerate harassment of participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds.
