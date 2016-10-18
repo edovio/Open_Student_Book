@@ -1,4 +1,4 @@
-# Economics and Law
+# ECONOMICS AND LAWS
 
 Macro-areas are
 
