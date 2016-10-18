@@ -1,4 +1,4 @@
-## INTRODUCTION TO COLLABORATIVE DESIGN AND OPEN SOURCE
+## WHAT IS THE OPEN SOURCE AND THE OPEN PROJECT
 
 In Information Technology a software is referred to as "Open Source" when its source code is publicly available for programmers to change or extend. In simpler words, the "recipe" for a work is shared, free and everyone can use it.
 What are the benefits of this? Collaborating and sharing your ideas with others makes it possible for them to be reinterpreted, continuously improved and used within broader contexts; in addition, you can reach far higher standards by joining forces than working alone. Making the source code open doesn't mean losing control over your work: the "inventor of the recipe" examines and chooses what can and cannot be added to his/her initial project.
