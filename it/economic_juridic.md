@@ -1,4 +1,4 @@
-# Studi Economico Giuridici
+# STUDI ECONOMICO GIURIDICI
 
 Le macro aree sono
 
