@@ -1,1 +1,30 @@
+# Economics and Law
 
+Macro-areas are
+
+## Economics Area
+This area is dedicated to activities concerning enterprises and financial markets, it ranges through courses like:
+Bank, insurance and financial mediators Economics; Business Economics and Administration; Economics and Business; Marketing and Business communication; Statistic and Economic Sciences; Statistics and Information Management; Business Economics
+### Food for thought
+- Business models based on free software
+- Foundation and management of communities
+- Statistics everywhere
+
+#### Connection between economics and open projects
+It could be an interesting lead for marketing students to study real applications in communication, brand and community management.
+Business Management students could run a project, face and solve complex problems.
+Economics students could discover business models based on free software and study them.
+
+## Law Area
+This area includes the various Law branches:
+Criminal Law, Juridical-Economic Law, Administration Law, Juridical-Political Law, Private Law, International Law, Business Law.
+
+### Food for thought
+- Privacy
+- Copyright, Copyleft and other forms of protection of the right of authorship
+- International Collaboration
+
+#### Connection between Law and open projects
+The scope of open projects ranges extensively in the Law field: a particular case of interest is the protection of intellectual property using GPL or other protection forms that do not prevent distribution.
+Adapt legal terms to the various international legislations.
+Create a portfolio about cases of interest in various fields.
