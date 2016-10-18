@@ -1,4 +1,4 @@
-# Summary
+# SOMMARIO
 
 * [Introduzione](README.md)
 * [Cosa è la Progettazione Collaborativa e OpenSource](open_source_introduction.md)
