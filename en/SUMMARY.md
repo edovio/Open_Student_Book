@@ -1,8 +1,8 @@
-# Summary
+# SUMMARY
 
-* [Introduzione](README.md)
-* [Cosa è la Progettazione Collaborativa e OpenSource](open_source_introduction.md)
-* [L'Open Source e le Facoltà Universitarie](introduction.md)
-  * [Facoltà orientate agli Studi Umanistici](humanistic_science.md)
-  * [Facoltà orientate agli Studi Scientifici](science.md)
-  * [Facoltà orientate agli Studi Economico Giuridici](economic_juridic.md)
+* [Introduction](README.md)
+* [What is the Open Source and the Open Project](open_source_introduction.md)
+* [Open Source and the University faculties](introduction.md)
+  * [Faculty oriented in humanistic areas](humanistic_science.md)
+  * [Faculty oriented in science areas](science.md)
+  * [Faculty oriented in economic & juridic areas](economic_juridic.md)
