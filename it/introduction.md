@@ -1,4 +1,4 @@
-# L'OpenSource e le Facoltà Universitarie
+# L'OPENSOURCE E LE FACOLTA' UNIVERSITARIE
 
 Le Università Italiane, come quelle straniere, sono suddivise in differenti Facoltà che possono essere suddivise in tre macro aree che concentrano tutti i corsi di studi che ogni Ateneo Italiano propone come propria e differente offerta formativa locale.
 Le tre aree possono essere dunque così definite:
