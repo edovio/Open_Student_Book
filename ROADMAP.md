@@ -27,21 +27,21 @@ In order to do this project we have decided to have two first Milestones:
 **Task 7:** Write some impact phrase for each student that explains why to participate in an Open Porject
 *(Deadline: 30 September)*
 
-##Milestone 2 : Review and Testing
-**Task 1:** Run a first test with the guide in different Universities in Italy
-*(Deadline: 15 October)*
+##Milestone 2 : Review and Translating
+**Task 1:**Review the Introduction of the OpenSource
+*(Deadline: 22 October)*
 
-**Task 2:** Define the run test and how the students reacted
-*(Deadline: 15 October)*
+**Task 2:** Review the Section of Humanistic science Area
+*(Deadline: 22 October)*
 
-**Task 3:** Insert the information in a test report
-*(Deadline: 16 October)*
+**Task 3:** Review the Section of Economic and Juridic Area
+*(Deadline: 22 October)*
 
-**Task 4:** Review the Guide
-*(Deadline: 20 October)*
+**Task 4:** Review the Section of Science Area
+*(Deadline: 22 October)*
 
 **Task 5:** Localize in English
-*(Deadline: 24 October)*
+*(Deadline: 25 October)*
 
 ##Italiano 
 hello world! Questo è la prima bozza della roadmap del progetto
@@ -71,18 +71,18 @@ Per realizzare il progetto sono state definite due Mileston principali
 **Task 7:** Scrivere per ogni tipologia di studente, con frasi di impatto, Perchè partecipare ad un progetto Open
 *(Deadline: 30 September)*
 
-##Milestone 2 : Testing e Revisione
-**Task 1:** Eseguire dei primi test nelle differenti Università Italiane
-*(Deadline: 15 October)*
+##Milestone 2 : Traduzione e Revisione
+**Task 1:** Revisionare la sezione Introduttiva all'OpenSource
+*(Deadline: 22 October)*
 
-**Task 2:** Definire i Test eseguiti e come hanno reagito gli studenti
-*(Deadline: 15 October)*
+**Task 2:** Revisionare l'Area di Scienze Umanistiche
+*(Deadline: 22 October)*
 
-**Task 3:** Inserire tutte le informazioni in un report
-*(Deadline: 16 October)*
+**Task 3:** Revisionare l'Area di Economia e Giurisprudenza
+*(Deadline: 22 October)*
 
-**Task 4:** Revisionare la guida
-*(Deadline: 20 October)*
+**Task 4:** Revisionare l'Area Scienze
+*(Deadline: 22 October)*
 
 **Task 5:** Traduzione in Inglese
-*(Deadline: 24 October)*
+*(Deadline: 25 October)*
