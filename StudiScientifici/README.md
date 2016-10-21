@@ -21,8 +21,25 @@ Le Scienze classiche sono tutte le scienze in cui troviamo quelle definite fonda
 ### Area Tecnologica e di Progettazione
 L'Area Tecnologica e di Progettazione è quella che per prima ha applicato i concetti di Open Source e progettazione libera e collaborativa ai propri campi di studi. Gli informatici hanno la possibilità di collaborare e sviluppare codice in vari Linguaggi di Programmazione su progetti attivi e poter promuovere, loro stessi, dei progetti al fine di crescere a livello culturale e realizzare con più facilità un proprio Portfolio. Discorso analogo, anche se non specifico sulla programmazione, può essere applicato in generis all'Area tecnologica. Contribuire o promuovere a progetti OpenSource permette di poter accrescere il proprio PortFolio professionale o fare delle esperienze partecipando a progetti attivi crescendo così a livello culturale e esperienziale. Un esempio di community o di Prodotti Sviluppati con un approccio OpenSource sono: Raspberry Pi (Area Ingegneristica) e WordPress (Area Informatica)
 
+#### Leve di interesse
+* Sviluppo di programmi OpenSource
+* Sviluppo di Tecnologie OpenSource
+* Sviluppo di Progetti condivisi e liberi
+
+
 ### Orientati alla salute dell'Uomo
 Realizzare progetti Collaborativi permette di poter eseguire sperimentazioni e far accrescere teorie o tesi sviluppando delle community specifiche che collaborano liberamente. Inoltre la particolarità e l'aspetto multidisciplinare di questa tipologia di progettazione permette la contaminazione delle competenze al fine di poter determinare in modo più semplice delle soluzioni innovative. Un esempio di Community o di progettazioni multidisciplinari Collaborative è: Coming Up Short Handed (Progetto di Protesi con la Stampa 3D).
 
+#### Leve di interesse
+* Sviluppo di soluzioni orientate alla salute dell'uomo innovative e libere 
+* Sviluppo di nuove teorie o tesi
+* Sviluppo di progetti interdisciplinari innovativi
+
 ### Scienze Classiche
 La realizzazione di tesi e sperimentazioni in modo libero è uno dei modi più semplici per realizzare una community che segua in modo collaborativo l'iter scientifico al fine di dimostrare in modo rigoroso se una specifica tesi può essere supportata da dati scientifici, inoltre, la multidisciplinareità di questa tipologia di progettazione permette di poter realizzare delle contaminazioni di abilità che possono essere d'aiuto nell'utilizzo di tecniche innovative al fine di facilitare la dimostrazione o il supporto di teorie o di svilupparle di nuove. Un esempio di Community o Progetti Open Source sono tutti i progetti di calcolo distribuito o di grid computing.
+
+#### Leve di interesse
+* Sviluppo di teoremi con una community che le sperimenta e supporta
+* Sperimentare nuovi teoremi in modo libero e condiviso
+* Sviluppo di sperimentazioni e teoremi in community multidiscplinari
+* Realizzazione di progetti di calcolo distribuito o grid comuting
