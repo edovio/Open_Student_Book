@@ -19,3 +19,6 @@ and to develop abilities connected to the reading of texts and documents in thei
 and written form. The course of studies in Languages provides the formation of professional figure able to decline the 
 communication in different forms and ways through the theoretical and practical study of Italian language and foreign languages.
 The course in Philosophy gives knowledge of the history of philosophy, morality, politics, logic, aesthetics, etc.. A graduate in Cultural Heritage has historical,artistic,archaeological and archival skills and has acquired skills in the ideation sectors of cultural events, organization and promotion of shows and possesses all the methodological and critical instruments for reading the expressive languages.
+
+## Studies
+A course in Communication Sciences has objective to develop a methodological preparation, technique and theory on communication problems, developing skills and abilities in the acquisition, treatment and organization of databases, linked to the different sensory modalities and to realise communication campaigns using all levels of human interpretation. The course in Psychological Sciences and Techniques has the purpose to make acquire a deep knowledge, systematic and updated of the differents sectors concerning the knowledge of psychological processes, biopsychological, cognitive, emotional and social,
