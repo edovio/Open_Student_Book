@@ -18,3 +18,4 @@ The course of letters have objective to acquire a basic knowledge of historical 
 and to develop abilities connected to the reading of texts and documents in their original language, mester the italian in oral
 and written form. The course of studies in Languages provides the formation of professional figure able to decline the 
 communication in different forms and ways through the theoretical and practical study of Italian language and foreign languages.
+The course in Philosophy gives knowledge of the history of philosophy, morality, politics, logic, aesthetics, etc.. A graduate in Cultural Heritage has historical,artistic,archaeological and archival skills and has acquired skills in the ideation sectors of cultural events, organization and promotion of shows and possesses all the methodological and critical instruments for reading the expressive languages.
