@@ -1,4 +1,4 @@
-# Studi Scientifici
+# STUDI SCIENTIFICI
 
 Gli studi scientifici si raggruppano in tre aree differenti che sono: Tecnologici e di Progettazione, Orientati alla salute dell'Uomo e i cosidetti Classici.
 
