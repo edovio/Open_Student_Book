@@ -1,4 +1,4 @@
-# Scientific studies
+# SCIENTIFIC STUDIES
 
 Scientific studies are divided in three different areas, which are: Technology and Projecting, Human Health care, and the so called “Classic”.
 The principal faculties of the technologic and planning area Engineering and IT(information technology), for the second  area we can find Medicine, Biology and Pharmacy, while for the third there are Chemistry, Physics, Mathematics and so on.
