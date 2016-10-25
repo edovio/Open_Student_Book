@@ -1,4 +1,4 @@
-# Studi Economico Giuridici
+# STUDI ECONOMICO GIURIDICI
 
 Gli studi Economico-Giuridici formano i futuri giudici, avvocati, economisti e manager. 
 Il loro compito è far osservare correttamente le leggi, studiare l'andamento del mercato finanziario e gestire aziende.
