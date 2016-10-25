@@ -4,7 +4,7 @@ The Italian Universities, how the other in the world, are divided in differents 
 that concentrate all the course of studies in every Italian universities propose how a local educational path. The three areas are defined how:
 
 - Humanistic science studies
-- Economic and Jurici studies
+- Economic and Law studies
 - Science studies
 
 In order to try to offer a guide that could help the community to understand all the differences between the different type of study areas
