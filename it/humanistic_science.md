@@ -17,7 +17,6 @@ Un corso di Scienze di Comunicazione ha l'obbiettivo di sviluppare una preparazi
 Un Umanista classico può avere vari interessi nei confronti dell'Open Source e della progettazione collaborativa, il Linguista potrebbe essere interessato a un'esperienza di traduzione o localizzazione di materiale tecnico in un contesto diverso dal suo. Filosofi (così come Psicologi) potrebbero pensare di pubblicare loro teorie trovando per queste un'applicazione con l'ausilio di una community, che creda altrettanto in esse. Non solo, ma una volta determinato il consenso nazionale di una certa teoria si potrebbe pensare di tradurla in diverse lingue e quindi collaborare con linguisti e ancora cercare di renderla più interessante e di impatto per un pubblico più ampio e quindi avvalersi di un esperto di comunicazione. Uno studente di Lettere può invece ritenere interessante redare e revisionare testi riguardanti aree totalmente diverse dalla sua, come ad ad esempio testi scientifici o tecnici. Per quanto riguarda uno studente di Beni Culturali potrebbe essere interessato a sviluppare un sistema di audioguide per un museo e potrebbe farlo insieme a un ingegnere e un informatico. 
 
 #### Leve di interesse
-
 * Migliorare le abilità di traduzione e localizzazione in progetti tecnici e multidisciplinari
 * Migliorare le abilità di revisione di testi
 * Sviluppo di nuovi teoremi e teorie con il supporto di una community
@@ -28,7 +27,6 @@ Un Umanista classico può avere vari interessi nei confronti dell'Open Source e 
 Un Umanista orientato alle scienze può avere vari interessi nei confronti dell'Open Source e della progettazione collaborativa, chi studia scienze delle comunicazioni potrebbe essere interessato a un'esperienza di preparazione di campagne informativa e comunicative circa la promozione degli obiettivi della stessa community o del progetto, oppure, offrire supporto su aspetti tecnici pratici di supporto alle community, gli studenti di scienze e tecniche psicologiche possono esser interessati allo sviluppo di teoremi e teorie e confrontarsi liberamente con altre persone che supportano liberamente le loro ipotesi e altresì potrebbero collaborare a progetti multidisciplinari applicando metodologie pratiche legati alla psicometria e alle indagini delle masse. Uno studente di sciende dell'educazione e della formazione potrebbe esser interessato sia ad applicare praticamente nozioni teoriche sviluppate durante il corso di studi applicando e realizzando nuove attività formative in collaborazione con altri professionisti o studenti di altri percorsi universitari, oppure creando nuovi e innovativi strumenti per la didattica.  
 
 #### Leve di interesse
-
 * Realizzazione di Campagne informative e comunicative
 * Migliorare le proprie abilità di supporto alla comunicazione
 * Sviluppo di nuove teorie psicologiche
