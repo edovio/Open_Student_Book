@@ -24,7 +24,7 @@ Economics students could discover business models based on free software and stu
 - Foundation and management of communities
 - Statistics everywhere
 
-### Connection between Law and open projects (Open Source)
+### Law Area
 The scope of open projects ranges extensively in the Law field: a particular case of interest is the protection of intellectual property using GPL or other protection forms that do not prevent distribution.
 Adapt legal terms to the various international legislations.
 Create a portfolio about cases of interest in various fields.
