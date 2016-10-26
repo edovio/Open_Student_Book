@@ -26,9 +26,23 @@ A course in Communication Sciences has objective to develop a methodological pre
 ## Factors which are common the Collaborative planning (open source)
 
 ### Classical Studies
+A Classic Humanist could have some interest in the openSource and in the Open Project, the linguist could be interest an a experience in the localization and translation in tecnics or in different contests. The philosopher (how the Psycologist) could be interest to publish theories with an community help. Moreover, could be interested to internazionalize these theroies and cooperate with communicator and linguist. A student of letters could be interested to make and revise texts and articles in differents areas how scientific and technical. For the Cultural Heritage students could be interests to develop innovative guide for museums e could make with engineer and computer scientist.
 
 #### Food for thought
+* Improve the skills in localization en translation in multidisciplinary projects
+* Improve the text and articles inspect
+* New theorem and theories development with a community support
+* Multidisciplinary project development
+* Innovative Arts project development
 
 ### Scientific Studies
+Un Umanista orientato alle scienze può avere vari interessi nei confronti dell'Open Source e della progettazione collaborativa, chi studia scienze delle comunicazioni potrebbe essere interessato a un'esperienza di preparazione di campagne informativa e comunicative circa la promozione degli obiettivi della stessa community o del progetto, oppure, offrire supporto su aspetti tecnici pratici di supporto alle community, gli studenti di scienze e tecniche psicologiche possono esser interessati allo sviluppo di teoremi e teorie e confrontarsi liberamente con altre persone che supportano liberamente le loro ipotesi e altresì potrebbero collaborare a progetti multidisciplinari applicando metodologie pratiche legati alla psicometria e alle indagini delle masse. Uno studente di sciende dell'educazione e della formazione potrebbe esser interessato sia ad applicare praticamente nozioni teoriche sviluppate durante il corso di studi applicando e realizzando nuove attività formative in collaborazione con altri professionisti o studenti di altri percorsi universitari, oppure creando nuovi e innovativi strumenti per la didattica. 
 
 #### Food for thought
+* Realizzazione di Campagne informative e comunicative
+* Migliorare le proprie abilità di supporto alla comunicazione
+* Sviluppo di nuove teorie psicologiche
+* Applicazione di teorie di indagine psicologica
+* Realizzazione di attività educative
+* Collaborare alla realizzazione di strumenti innovativi per la didattiva
+* Migliorare le proprie abilità applicando le teorie di educazione
