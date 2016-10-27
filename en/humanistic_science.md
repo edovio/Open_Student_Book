@@ -36,13 +36,14 @@ A Classic Humanist could have some interest in the openSource and in the Open Pr
 * Innovative Arts project development
 
 ### Scientific Studies
-Un Umanista orientato alle scienze può avere vari interessi nei confronti dell'Open Source e della progettazione collaborativa, chi studia scienze delle comunicazioni potrebbe essere interessato a un'esperienza di preparazione di campagne informativa e comunicative circa la promozione degli obiettivi della stessa community o del progetto, oppure, offrire supporto su aspetti tecnici pratici di supporto alle community, gli studenti di scienze e tecniche psicologiche possono esser interessati allo sviluppo di teoremi e teorie e confrontarsi liberamente con altre persone che supportano liberamente le loro ipotesi e altresì potrebbero collaborare a progetti multidisciplinari applicando metodologie pratiche legati alla psicometria e alle indagini delle masse. Uno studente di sciende dell'educazione e della formazione potrebbe esser interessato sia ad applicare praticamente nozioni teoriche sviluppate durante il corso di studi applicando e realizzando nuove attività formative in collaborazione con altri professionisti o studenti di altri percorsi universitari, oppure creando nuovi e innovativi strumenti per la didattica. 
+A humanist oriented-sciences can have different interests in open source and in collaborative planning. Who studies communication sciences, could be interested in a preparation experience of information and communication campaigns about the promotion of the same community objectives, or, offer support to the technical and practical aspects of community. Phsycology students can be interested in the development of theorems and theories and to discuss freely with other people that support their hypothesis, also, could collaborate in multidisciplinary project, using practical methodologies related to psychometrics and mass surveys. An educational sciences student could be interested to pratical implementation of theoretical concepts developed during the course of study, both applying and producing new training activities in collaboration with other professionals or students from other university courses, and creating new and innovative teaching instruments. 
+
 
 #### Food for thought
-* Realizzazione di Campagne informative e comunicative
-* Migliorare le proprie abilità di supporto alla comunicazione
-* Sviluppo di nuove teorie psicologiche
-* Applicazione di teorie di indagine psicologica
-* Realizzazione di attività educative
-* Collaborare alla realizzazione di strumenti innovativi per la didattiva
-* Migliorare le proprie abilità applicando le teorie di educazione
+* Creation of information and communication campaigns
+* Improve their communication skills support
+* Development of new psychological theories
+* Application of phsycological investigation theories 
+* Implementation of educational activities
+* Collaborate in the creation of innovative instruments for teaching
+* Improve their skills by applying the theories of education
