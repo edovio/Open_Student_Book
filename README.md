@@ -1,6 +1,8 @@
 OPEN STUDENT BOOK
 =================
 
+[![Join the chat at https://gitter.im/Open_Student_Book/Lobby](https://badges.gitter.im/Open_Student_Book/Lobby.svg)](https://gitter.im/Open_Student_Book/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 English
 -------
 Hello World!!! I'm Edoardo Viola and I'm a Mozilla Volunteer. From August 2016, I have been working on this little guide to introduce Open Projects and Open Source to students of all faculties in Italian universities. It's important to show them the potential of working in an open community and to demonstrate why doing so is important, not just for the individual but for humanity as a whole.
