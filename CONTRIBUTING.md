@@ -18,7 +18,7 @@ Please report unacceptable behavior to edovio@gmail.com.
 
 ### Important Resources
 * [README FILE](https://github.com/edovio/OpenStudentBook/blob/master/README.md)
-* [ROADMAP FILE](https://github.com/edovio/OpenStudentBook/blob/master/roadmap.md)
+* [ROADMAP FILE](https://github.com/edovio/OpenStudentBook/blob/master/ROADMAP.md)
 
 ### List of Communication Channels:
 * [Telgram Group](https://telegram.me/joinchat/B1cgtAocfekH_IHdviePDA)
@@ -57,11 +57,12 @@ Noi lavoriamo con gli studenti Universitari che fanno parte di community Open in
 ### Codice di Condotta
 
 Questo progetto aderisce al seguente [Codice di Condotta](https://github.com/edovio/Open_Student_Book/blob/master/Codice_di_Condotta.md). Per partecipare, ci aspettiamo che legga ed accetta quanto scritto nello stesso codice.
+
 Per favore segnalaci comportamenti inacettabili qui, edovio@gmail.com.
 
 ### Risorse importanti
 * [README FILE](https://github.com/edovio/OpenStudentBook/blob/master/README.md)
-* [ROADMAP FILE](https://github.com/edovio/OpenStudentBook/blob/master/roadmap.md)
+* [ROADMAP FILE](https://github.com/edovio/OpenStudentBook/blob/master/ROADMAP.md)
 
 ### Lista dei canali di comunicazione
 * [Telgram Group](https://telegram.me/joinchat/B1cgtAocfekH_IHdviePDA)
