@@ -56,7 +56,8 @@ Noi lavoriamo con gli studenti Universitari che fanno parte di community Open in
 
 ### Codice di Condotta
 
-Questo progetto aderisce al seguente [Codice di Condotta](https://github.com/edovio/Open_Student_Book/blob/master/CODE_OF_CONDUCT.md). Per partecipare, ci aspettiamo che legga ed accetta quanto scritto nello stesso codice.
+Questo progetto aderisce al seguente [Codice di Condotta](https://github.com/edovio/Open_Student_Book/blob/master/Codice_di_Condotta.md). Per partecipare, ci aspettiamo che legga ed accetta quanto scritto nello stesso codice.
+
 Per favore segnalaci comportamenti inacettabili qui, edovio@gmail.com.
 
 ### Risorse importanti
