@@ -24,7 +24,7 @@ Hello World!!! Sono Edoardo Viola e sono un volontario Mozilla. Da questo Agosto
 
 Io penso che questo progetto possa essere anche un buon inizio per chi stia iniziando ad approcciarsi ai progetti aperti e per testare tutti assieme le potenzialità di lavorare tutti assieme, mixando le nostre passioni, abilità e pensieri in un progetto aperto. Qui tutti i pensieri circa i nostri obbiettivi sono accettati e il metodo di lavoro è sempre inclusivo verso chiunque.
 
-###Cosa è necessario per lavorare al progetto
+### Cosa è necessario per lavorare al progetto
 
 * Essere uno studente, un insegnante, un ricercato o un PhD Universitario, oppure, esser un lavoratore con una Laurea Universitaria
 * Avere la passione o voler iniziare ad essere un volontario in una community che lavora in Progetti aperti
