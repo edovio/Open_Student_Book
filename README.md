@@ -1,7 +1,7 @@
 OPEN STUDENT BOOK
 =================
 
-![OpenStudentBook](http://openstudentbook.edovio.com/src/OpenStudentBook.png)
+![OpenStudentBook](http://openstudentbook.edovio.com/src/OpenStudentBookM.png)
 
 [![Join the chat at https://gitter.im/Open_Student_Book/Lobby](https://badges.gitter.im/Open_Student_Book/Lobby.svg)](https://gitter.im/Open_Student_Book/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
