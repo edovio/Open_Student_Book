@@ -1,11 +1,11 @@
-#RoadMap
+# RoadMap
 
 hello world! this is the first and simple RoadMap for the OpenStudentBook.
 **OpenStudentBook** is a short guide to increase the partecipation in Open Project in the Italian Universities.
 
 In order to do this project we have decided to have two first Milestones:
 
-##Milestone 1 : First a Draft
+## Milestone 1 : First a Draft
 **Task 1:** Write an Introduction for the Open Projects and OpenSource Projects 
 *(Deadline: 30 September)*
 
@@ -27,7 +27,7 @@ In order to do this project we have decided to have two first Milestones:
 **Task 7:** Write some impact phrase for each student that explains why to participate in an Open Porject
 *(Deadline: 30 September)*
 
-##Milestone 2 : Review and Translating
+## Milestone 2 : Review and Translating
 **Task 1:**Review the Introduction of the OpenSource
 *(Deadline: 22 October)*
 
@@ -43,13 +43,13 @@ In order to do this project we have decided to have two first Milestones:
 **Task 5:** Localize in English
 *(Deadline: 25 October)*
 
-##Italiano 
+## Italiano 
 hello world! Questo è la prima bozza della roadmap del progetto
 **OpenStudentBook** è una breve guida per incrementare la partecipazione nei progetti Open nelle Università Italiane
 
 Per realizzare il progetto sono state definite due Mileston principali
 
-##Milestone 1 : Prima Bozza
+## Milestone 1 : Prima Bozza
 **Task 1:** Scrivere una introduzione all'OpenSource e alla progettazione Open
 *(Deadline: 30 September)*
 
@@ -71,7 +71,7 @@ Per realizzare il progetto sono state definite due Mileston principali
 **Task 7:** Scrivere per ogni tipologia di studente, con frasi di impatto, Perchè partecipare ad un progetto Open
 *(Deadline: 30 September)*
 
-##Milestone 2 : Traduzione e Revisione
+## Milestone 2 : Traduzione e Revisione
 **Task 1:** Revisionare la sezione Introduttiva all'OpenSource
 *(Deadline: 22 October)*
 
