@@ -33,22 +33,22 @@ delivered suddivided in two new Milestones:
 
 
 ## Milestone 2 : Review and Translate
-**Task 1:**Review the Introduction of the OpenSource
+**Task 8:** Review the Introduction of the OpenSource
 *(Deadline: 30 September)*
 
-**Task 2:** Review the Section of Humanistic science Area
+**Task 9:** Review the Section of Humanistic science Area
 *(Deadline: 30 September)*
 
-**Task 3:** Review the Section of Economic and Juridic Area
+**Task 10:** Review the Section of Economic and Juridic Area
 *(Deadline: 30 September)*
 
-**Task 4:** Review the Section of Science Area
+**Task 11:** Review the Section of Science Area
 *(Deadline: 30 September)*
 
-**Task 5:** Localize in English
+**Task 12:** Localize in English
 *(Deadline: 30 September)*
 
-**Task 6:** Localize in other languages (if applicable)
+**Task 13:** Localize in other languages (if applicable)
 *(Deadline: 30 September)*
 
 ## Italiano 
@@ -85,20 +85,20 @@ contenuti inseriti nella guida, suddivisa in due milestones:
 *(Deadline: 15 Luglio)*
 
 ## Milestone 2 : Traduzione e Revisione
-**Task 1:** Revisionare la sezione Introduttiva all'OpenSource
+**Task 8:** Revisionare la sezione Introduttiva all'OpenSource
 *(Deadline: 30 Settembre)*
 
-**Task 2:** Revisionare l'Area di Scienze Umanistiche
+**Task 9:** Revisionare l'Area di Scienze Umanistiche
 *(Deadline: 30 Settembre)*
 
-**Task 3:** Revisionare l'Area di Economia e Giurisprudenza
+**Task 10:** Revisionare l'Area di Economia e Giurisprudenza
 *(Deadline: 30 Settembre)*
 
-**Task 4:** Revisionare l'Area Scienze
+**Task 11:** Revisionare l'Area Scienze
 *(Deadline: 30 Settembre)*
 
-**Task 5:** Traduzione in Inglese
+**Task 12:** Traduzione in Inglese
 *(Deadline: 30 Settembre)*
 
-**Task 6:** Traduzione in altre lingue (se applicabile)
+**Task 13:** Traduzione in altre lingue (se applicabile)
 *(Deadline: 30 Settembre)*
