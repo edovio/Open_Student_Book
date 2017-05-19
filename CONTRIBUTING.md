@@ -5,7 +5,7 @@
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
 ## Project Vision
-We are working With the University Students involved in Open Community in Italy to make a guide to interest in OpenProject
+We are working With the University Students involved in Open Community to make a guide to interest in OpenProject
 and OpenSource  other students to University Students involved so that they can Increase the partecipation into Open Project 
 over the campuses.
 
@@ -58,7 +58,7 @@ more details coming soon!
 :+1::tada: Prima di qualunque altra cosa, Grazie per il tuo contributo!!! :tada::+1:
 
 ## Project Vision
-Noi lavoriamo con gli studenti Universitari che fanno parte di community Open in Italia per creare una guida verso la progettazione Open e l'OpenSource che aiuti ad incrementare la partecipazione di altri studenti alle loro Progettazione Open nelle Università.
+Noi lavoriamo con gli studenti Universitari che fanno parte di community Open per creare una guida verso la progettazione Open e l'OpenSource che aiuti ad incrementare la partecipazione di altri studenti alle loro Progettazione Open nelle Università.
 
 ## Cosa hai necessità di sapere prima di iniziare?
 
