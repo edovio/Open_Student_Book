@@ -34,7 +34,7 @@ In order to submit Changes we defined few simple step.
 5. follow the status of your Pull request and if are needed explanation of the changes proposed
 
 ### How Submit Issues
-If you notice a bug, or if you have a request for new features or content, the easiest way to get involved is by submitting an issue on GitHub. Go to the [Open_Student_Book Issues Page](https://github.com/edovio/Open_Student_Book/issues) and then click the green ## New issue button. This requires a free GitHub account. If you don't feel like going through GitHub, you can also post on the Communication Channels or [contact me](mailto:edovio@gmail.com) directly.
+If you notice a bug, or if you have a request for new features or content, the easiest way to get involved is by submitting an issue on GitHub. Go to the [Open_Student_Book Issues Page](https://github.com/edovio/Open_Student_Book/issues) and then click the green `New issue` button. This requires a free GitHub account. If you don't feel like going through GitHub, you can also post on the Communication Channels or [contact me](mailto:edovio@gmail.com) directly.
 
 ### Your Good First Bug
 Please share your ideas and your first comment in our [README FILE](https://github.com/edovio/OpenStudentBook/blob/master/README.md)
@@ -86,7 +86,7 @@ Al fine di eseguire dei cambiamenti abbiamo definito dei semplici passi.
 5. Segui lo stato della tua Pull Request e se sono necessaria delle spiegazioni circa le modifiche proposte
 
 ### How fare gli Issues
-Se tu verifichi che c'è un Bug, oppure vuoi fare richiesta di nuovi contenuti o features, la strada più semplice per esser coinvolto in questo processo è la creazione di un Issue in GitHub. Vai alla [Open_Student_Book Issues Page](https://github.com/edovio/Open_Student_Book/issues) e clicca sul pulsante Verde ## New issue. Questo richiede un account gratuito a GitHub. Se non ti piace utilizzare GitHub, puoi anche suggerire queste modifiche attraverso i nostri canali di comunicazione oppure [contattando me](mailto:edovio@gmail.com) direttamente.
+Se tu verifichi che c'è un Bug, oppure vuoi fare richiesta di nuovi contenuti o features, la strada più semplice per esser coinvolto in questo processo è la creazione di un Issue in GitHub. Vai alla [Open_Student_Book Issues Page](https://github.com/edovio/Open_Student_Book/issues) e clicca sul pulsante Verde `New issue`. Questo richiede un account gratuito a GitHub. Se non ti piace utilizzare GitHub, puoi anche suggerire queste modifiche attraverso i nostri canali di comunicazione oppure [contattando me](mailto:edovio@gmail.com) direttamente.
 
 ### Your Good First Bug
 Per favore condividi con noi le tue idee e il tuo primo commento nel nostro [README FILE](https://github.com/edovio/OpenStudentBook/blob/master/README.md)
