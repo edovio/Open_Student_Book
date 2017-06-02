@@ -8,6 +8,8 @@ Hello World!!! I'm Edoardo Viola and I'm a Mozilla Volunteer. From August 2016, 
 
 This project can also serve as a good starting place for those who are interested in learning how to work collaboratively, mixing our passions and skills to build an open project. Feel free to make any suggestions about the project's goals here; our method of working is meant to be inclusive to everyone.
 
+**Actually the content is delivered as PDF or Ebook using GitBook: https://www.gitbook.com/book/edovio/open-student-book/details **
+
 ### What you need to contribute 
 
 * Be a student, teacher or researcher or PhD at a university, or hold a university degree
@@ -22,6 +24,8 @@ Italiano
 Hello World!!! Sono Edoardo Viola e sono un volontario Mozilla. Da questo Agosto ho iniziato a pensare che fosse necessaria una piccola guida per introdurre il mondo del Open Source e della progettazione "Libera" agli studenti di tutte le facoltà delle Università. Secondo me, è importante far conoscere le potenzialità e perchè riteniamo importante lavorare in progetti liberi e con le loro community. Tutto questo non solo per il bene dell'umanità in genere ma anche per noi stessi.
 
 Io penso che questo progetto possa essere anche un buon inizio per chi stia iniziando ad approcciarsi ai progetti aperti e per testare tutti assieme le potenzialità di lavorare tutti assieme, mixando le nostre passioni, abilità e pensieri in un progetto aperto. Qui tutti i pensieri circa i nostri obbiettivi sono accettati e il metodo di lavoro è sempre inclusivo verso chiunque.
+
+**Allo stato attuale i contenuti sono disponibili in PDF o Ebook attraverso GitBook: https://www.gitbook.com/book/edovio/open-student-book/details **
 
 ### Cosa è necessario per lavorare al progetto
 
