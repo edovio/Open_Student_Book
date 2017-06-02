@@ -29,6 +29,6 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you.
 
-If a participant engages in behavior that violates this code of conduct, the organizers may take any action they deem appropriate.
+If a participant engages in behavior that violates this code of conduct, the organizers may take any action they seem appropriate.
 
 Need to report an issue? You can reach the OpenStudentBook team by mailing edovio@gmail.com.
