@@ -1,7 +1,7 @@
-# OPENSOURCE AND THE UNIVERSITIES
+# OPEN SOURCE AND THE UNIVERSITIES
 
-The Italian Universities, how the other in the world, are divided in differents faculties that could divide in three macro areas 
-that concentrate all the course of studies in every Italian universities propose how a local educational path. The three areas are defined how:
+The Italian Universities, how the other in the world, are divided in different faculties that could divide in three macro areas 
+that concentrate all the course of studies in every Italian universities propose how a local educational path. The three areas are defined as:
 
 - Humanistic science studies
 - Economic and Law studies
